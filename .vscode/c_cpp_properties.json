@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/lib/x86_64-linux-gnu/openmpi/include/"
+            ]
+            // 他の設定があればそのままにしておきます
+        }
+    ],
+    "version": 4
+}
